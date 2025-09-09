@@ -8,12 +8,12 @@
 <body>
 
     <header>
-        <h1>Bem-vindos ao meu site!</h1>
+        <h1>blog da ket ket</h1>
         <nav>
             <ul>
-                <li><a href="#">Início</a></li>
-                <li><a href="#">Sobre</a></li>
-                <li><a href="#">Contato</a></li>
+                <li><a href="#">dançar</a></li>
+                <li><a href="#">comer</a></li>
+                <li><a href="#">Conversar</a></li>
             </ul>
         </nav>
     </header>
@@ -28,12 +28,24 @@
             <h2>Artigos</h2>
             <article>
                 <h3>Artigo 1</h3>
-                <p>Escreva aqui um texto criativo sobre o tema que você escolheu.</p>
+                <p>oi,gente!
+                Resolvi abrir este blog para bater um papo com voces
+                sobre coisas que a gente ama e as vezes nem para pra pensar.
+                vai ter de tudo um pouco: dicas,historias engraçadas,reflexoes e novidades 
+                e pode ter certeza muuuita dança kkk.
+                bora começar essa aventura juntos?</p>
             </article>
 
             <article>
                 <h3>Artigo 2</h3>
-                <p>Escreva aqui outro texto criativo.</p>
+                <p>meu objetivo e diverti voces e construir um espaço aqui onde
+                possamos conversar sobre experiencias dividir dicas uteis e, claro,
+                aprender juntos. afinal cada pessoa carrega uma historia e algo
+                 a ensinar.
+                 
+                 fiquem avontade para conversar e desabafar comigo
+                 vamos divertir muuito com esse blog espero dançar muito com voces
+                 e espero que este cantinho seja especial para voces assim como ja e pra mim</p>
             </article>
         </section>
 
